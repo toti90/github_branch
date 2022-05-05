@@ -1,0 +1,20 @@
+{
+  "name": "github_branch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toti90/github_branch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toti90/github_branch/issues"
+  },
+  "homepage": "https://github.com/toti90/github_branch#readme"
+}
